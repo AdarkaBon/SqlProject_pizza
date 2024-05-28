@@ -1,4 +1,3 @@
-# SqlProject_pizza
 # Ben's Pizzeria Database Project
 
 ## Overview
